@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.45.3](https://github.com/u-yas/octocov/compare/v0.45.1...v0.45.3) - 2022-11-11
+- test: add case for https://github.com/antonmedv/expr expression by @u-yas in https://github.com/u-yas/octocov/pull/1
+
 ## [v0.45.3](https://github.com/k1LoW/octocov/compare/v0.45.2...v0.45.3) - 2022-11-09
 - Fix build pipeline of docker image by @k1LoW in https://github.com/k1LoW/octocov/pull/212
 
